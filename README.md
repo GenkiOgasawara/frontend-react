@@ -1,4 +1,6 @@
-git clone GenkiOgasawara/frontend-react
+```
+git clone https://github.com/GenkiOgasawara/frontend-react.git
+```
 
 ```shell
 docker build -t react-env .
